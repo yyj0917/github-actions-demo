@@ -7,5 +7,5 @@ jobs:
     steps:
       - name: Say Hello
         run: echo "Hello from Github Actions!"
-      - run: echo "I`ll list files."
+      - run: echo "I'll list files."
       - run: ls -al
